@@ -1,6 +1,6 @@
 # Hello, my name is John Zumberger 
 
-## About me 
+## About me ⬇️
 
 <!---
 **Damiel2/damiel2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
