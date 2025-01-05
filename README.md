@@ -8,6 +8,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my bachelors degree in Electrical and Computer Engineering
 - 🌱 I'm currently expanding my knowledge and skills in machine learning
-**- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on innovative projects as an electrical and computer engineer.
 - 📫 Gmail: zumberger.2@gmail.com
 - ⚡ Fun fact: Student at The Ohio State University
